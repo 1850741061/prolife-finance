@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Keep Accounts</string>
+    <string name="accessibility_service_desc">允许 Keep Accounts 在检测到支付时，在其他应用上方显示快捷记账悬浮窗。此服务不会收集或读取您的屏幕内容。</string>
+</resources>
+

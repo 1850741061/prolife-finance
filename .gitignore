@@ -1,0 +1,30 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Kotlin
+*.class
+
+# Build output
+/app/build
+/build
+
+# Keystore
+*.jks
+*.keystore
+
+# Secrets
+*.env
+google-services.json
+
+# Claude Code
+.claude/
+
+
